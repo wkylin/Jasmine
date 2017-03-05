@@ -1,4 +1,4 @@
-# Jasmine
+# Jasmine & Karma & Protractor
 
 
 >npm install jasmine-core --save-dev
