@@ -1,9 +1,9 @@
 # Jasmine
 
 
-npm install jasmine-core --save-dev
+>npm install jasmine-core --save-dev
 
-npm install jasmine --save-dev
+>npm install jasmine --save-dev
 
 >npm install -g karma-cli
 
@@ -11,12 +11,12 @@ npm install jasmine --save-dev
 
 >npm install -g karma-jasmine karma-chrome-launcher
 
-karma init
+>karma init
 
-npm init
+>npm init
 
-npm install -g protractor
+>npm install -g protractor
 
-webdriver-manager update
+>webdriver-manager update
 
-webdriver-manager update --standalone
+>webdriver-manager update --standalone
